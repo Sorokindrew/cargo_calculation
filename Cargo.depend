@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557672322 source:d:\c\cargo\astm54b.c
+	"Cargo.h"
+
+1558182684 d:\c\cargo\cargo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
+1557672336 source:d:\c\cargo\astm54d.c
+	"Cargo.h"
+
+1644852978 source:d:\c\cargo\main.c
+	"Cargo.h"
+
+1557933182 source:d:\c\cargo\grade.c
+	"Cargo.h"
+
+1557931724 source:d:\c\cargo\num_grade.c
+	"Cargo.h"
+
+1558186642 source:d:\c\cargo\vvod.c
+	"Cargo.h"
+
+1558183644 source:d:\c\cargo\strtofl.c
+	"Cargo.h"
+
